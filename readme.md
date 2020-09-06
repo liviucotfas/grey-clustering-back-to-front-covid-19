@@ -16,10 +16,10 @@ All the simulations have been performed using the following settings:
 > 2. Click on the animations to view them at a better resolution.
 
 ### 1. g1 = 2; g2 = 26; g3 = 2
-[![BS1-Random-without-assigned-seats](recordings/configuration-2-26-2.gif)](recordings/configuration-2-26-2.gif)
+[![g1 = 2; g2 = 26; g3 = 2](recordings/configuration-2-26-2.gif)](recordings/configuration-2-26-2.gif)
 
 ### 2. g1 = 15; g2 = 10; g3 = 5
-[![BS1-Random-without-assigned-seats](recordings/bs1-1m.gif)](https://www.youtube.com/watch?v=Y2aczqklfV0)
+[![g1 = 15; g2 = 10; g3 = 5](recordings/configuration-15-10-5.gif)](recordings/configuration-15-10-5.gif)
 
 ### 3. g1 = 10; g2 = 10; g3 = 10
-[![BS1-Random-without-assigned-seats](recordings/bs1-1m.gif)](https://www.youtube.com/watch?v=Y2aczqklfV0)
+[![g1 = 10; g2 = 10; g3 = 10](recordings/configuration-10-10-10.gif)](recordings/configuration-10-10-10.gif)
