@@ -15,11 +15,11 @@ All the simulations have been performed using the following settings:
 > 1. You can download the animations below in order to watch them at a higher resolution.
 > 2. Click on the animations to view it at a better resolution.
 
-### g1 = 2; g2 = 26; g3 = 2
+### 1. g1 = 2; g2 = 26; g3 = 2
 [![BS1-Random-without-assigned-seats](recordings/configuration-2-26-2.gif)](recordings/configuration-2-26-2.gif)
 
-### g1 = 15; g2 = 10; g3 = 5
+### 2. g1 = 15; g2 = 10; g3 = 5
 [![BS1-Random-without-assigned-seats](recordings/bs1-1m.gif)](https://www.youtube.com/watch?v=Y2aczqklfV0)
 
-### g1 = 10; g2 = 10; g3 = 10
+### 3. g1 = 10; g2 = 10; g3 = 10
 [![BS1-Random-without-assigned-seats](recordings/bs1-1m.gif)](https://www.youtube.com/watch?v=Y2aczqklfV0)
