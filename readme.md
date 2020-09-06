@@ -1,6 +1,6 @@
 Recordings of the simulations presented in 
-### **"Evaluating Classical Airplane Boarding Methods Considering COVID-19 Flying Restrictions"** 
-submitted to the `sustainability` journal.
+### **"Grey Clustering of the Variations in the Back-to-front Airplane Boarding Method Considering COVID-19 Flying Restrictions"** 
+submitted to the `Sustainability` journal.
 
 Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
 
