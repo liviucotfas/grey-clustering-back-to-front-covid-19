@@ -13,7 +13,7 @@ All the simulations have been performed using the following settings:
 
 > Suggestions: 
 > 1. You can download the animations below in order to watch them at a higher resolution.
-> 2. Click on the animations to view them at a better resolution.
+> 2. Click on the animations to view them at a better resolution or to download them.
 
 ### 1. g1 = 2; g2 = 26; g3 = 2
 [![g1 = 2; g2 = 26; g3 = 2](recordings/configuration-2-26-2.gif)](recordings/configuration-2-26-2.gif)
