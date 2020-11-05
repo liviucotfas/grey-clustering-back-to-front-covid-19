@@ -1,6 +1,6 @@
 Recordings of the simulations presented in 
 ### **"Grey Clustering of the Variations in the Back-to-front Airplane Boarding Method Considering COVID-19 Flying Restrictions"** 
-submitted to the `Sustainability` journal.
+submitted to the `Grey Systems: Theory and Application` journal.
 
 Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
 
