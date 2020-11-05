@@ -1,4 +1,4 @@
-Recordings of the simulations presented in 
+Recordings of the simulations presented in the paper
 ### **"Grey Clustering of the Variations in the Back-to-front Airplane Boarding Method Considering COVID-19 Flying Restrictions"** 
 submitted to the `Grey Systems: Theory and Application` journal.
 
